@@ -7,7 +7,7 @@ font-family: 'Ruslan Display', cursive; */
 }
 
 body {
-    color: white;
+    color: #c4ac7e;
     background-color: #2e2e30;
     background-image: url("intropage.jpg");
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@ body {
 
 a {
     text-align: center;
-    color: white;
+    color: #c4ac7e;
     margin: 0 50px 0 50px; /* Top right bottom left */
     font-size: 30px;
 }
@@ -26,13 +26,46 @@ h1 {
     text-align: center;
     text-shadow: 5px 5px black;
 /*     border: 1px solid #FFF; */
-    font-size: 100px;
-    font-family: 'Puppies Play', cursive;
+    font-size: 60px;
+    font-family: 'Tapestry', cursive;
     border-radius: 25px;
     opacity: 70; 
     margin: 100px 0 0 0;
 }
 
+h2 {
+    text-align: center;
+    text-shadow: 5px 5px black;
+/*     border: 1px solid #FFF; */
+    font-size: 30px;
+    font-family: 'Tapestry', cursive;
+    border-radius: 25px;
+    opacity: 70; 
+    margin: 40px 0 0 0;
+}
+
+h3{
+    text-align: center;
+    text-shadow: 5px 5px black;
+    font-size: 30px;
+    font-family: 'Tapestry', cursive;
+    border-radius: 25px;
+    opacity: 70; 
+    margin: 40px 0 0 0;   
+}
+
+h4{
+    text-align: left;
+    text-shadow: 5px 5px black;
+/*     border: 1px solid #FFF; */
+    font-size: 30px;
+    font-family: 'Tapestry', cursive;
+    border-radius: 25px;
+    opacity: 70; 
+    margin: 40px 0 0 0;
+
+    
+}
 #navigation {
 /*     border: 1px solid white; */
     width: 1200px;
@@ -41,14 +74,13 @@ h1 {
 }
 
 #mainVideo{
-    border: 10px solid #9f8a5c;
+    border: 5px solid #574f3d;
     width: 560px;
     margin: 50px auto 0 auto;
-    box-shadow: 10px 5px 5px #9f8a5c;
+    box-shadow: 10px 5px 5px #48453c;
 }
 
 #mainContent {
-    border: 1px solid white;
     width: 700px;
     margin: 50px auto 0 auto;
     text-align: center;
@@ -59,7 +91,18 @@ footer {
     text-align: center;
     margin: 350px 0 0 0;   
 }
+p{
+    text-align: center;
+    text-shadow: 5px 5px black;
+/*     border: 1px solid #FFF; */
+    font-size: 30px;
+    font-family: 'Tapestry', cursive;
+    border-radius: 25px;
+    opacity: 70; 
+    margin: 40px 0 0 0;
 
+    
+}
 
 
 
